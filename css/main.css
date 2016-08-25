@@ -1,0 +1,55 @@
+body{
+	margin: 10px;
+}
+h4{
+	font-family: comic sans;
+}
+hr{
+  background-color: black;
+  height: 2px;
+  margin-left: 0%;
+  margin-right: 94%;
+}
+p{
+	color: white;
+	position: relative;
+	top: 155px;
+	left: 70px;
+	
+}
+.box{
+	height: 200px;
+	width: 200px;
+}
+.pic1{
+	background-image: url(../img/profile-1.png);
+	float: left;
+	margin-bottom: 20px;
+}
+.pic2{
+	background-image: url(../img/profile-2.png);
+	float: left;
+	margin-left: 20px;
+	margin-right:20px;
+}
+	
+.pic3{
+	background-image: url(../img/profile-3.png);
+	float: left;
+}
+	
+.pic4{
+	background-image: url(../img/profile-4.png);
+	clear: both;
+	float: left;
+}
+.pic5{
+	background-image: url(../img/profile-5.png);
+	float: left;
+	margin-left: 20px;
+	margin-right:20px;
+}
+.pic6{
+	background-image: url(../img/profile-6.png);
+	float: left;
+}
